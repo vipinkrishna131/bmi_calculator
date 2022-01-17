@@ -1,4 +1,4 @@
-# bmi_calculator
+# navigation_drawer_example
 
 A new Flutter project.
 
